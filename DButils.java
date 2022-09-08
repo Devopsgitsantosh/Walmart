@@ -1,3 +1,2 @@
-Hello
 This JAVA class contains the database related code....
-Adding this line for git practicie
+Adding this line for git practice
